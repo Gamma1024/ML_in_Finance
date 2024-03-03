@@ -4,14 +4,14 @@ This is the final project of group 2 for the Seminar Introduction to Machine Lea
 
 # Table of Contents
 
-1. [Team Members](##team-members)
-2. [Repository Structure](#RepositoryStructure)
-3. [Project Overview](##project-overview)
-4. [Key Features](##key-features)
-5. [Models Evaluated](##models-evaluated)
-6. [Getting Started](##getting-started)
-7. [Results](##results)
-8. [Future Work](##future-work)
+1. [Team Members](#team-members)
+2. [Repository Structure](#Repository-Structure)
+3. [Project Overview](#project-overview)
+4. [Key Features](#key-features)
+5. [Models Evaluated](#models-evaluated)
+6. [Getting Started](#getting-started)
+7. [Results](#results)
+8. [Future Work](#future-work)
 
 ## Team Members
 
